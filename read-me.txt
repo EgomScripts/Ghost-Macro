@@ -1,4 +1,8 @@
-This is a 1.8.9 Mod for Hypixel Skyblock and it's purpose is to be able to farm Ghosts in the Dwarven Mines without making inputs on your PC so you can be completely AFK and still grind combat xp and sorrows
+This is a 1.8.9 Mod for Hypixel Skyblock and it's purpose
+is to be able to farm Ghosts in the Dwarven Mines without
+making inputs on your PC so you can be completely AFK and still grind combat xp and sorrows
 
-It is required you have a soul whip and highly recommended that you can 2-3 shot ghosts and survive more than a couple hits, if you cant grind sorrows manually then you wont be able to grind them with this mod
+It is required you have a soul whip and highly recommended 
+that you can 2-3 shot ghosts and survive more than a couple hits,
+if you cant grind sorrows manually then you wont be able to grind them with this mod
 
